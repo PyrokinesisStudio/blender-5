@@ -1,0 +1,20 @@
+
+
+corridor
+airlock
+computer room
+transporter
+turbolift
+
+
+assets
+
+corridor wall
+corridor corner
+airlock door
+room door
+turbolift
+computer bank
+desk
+chair
+transporter
